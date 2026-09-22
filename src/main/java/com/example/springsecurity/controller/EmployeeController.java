@@ -1,4 +1,4 @@
-package com.example.springsecurity;
+package com.example.springsecurity.controller;
 
 
 import com.example.springsecurity.entity.Employee;
